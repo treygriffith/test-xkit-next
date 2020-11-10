@@ -1,0 +1,16 @@
+{
+  "name": "xkit-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@xkit-co/xkit-catalog.js": "^8.3.1",
+    "next": "9.5.5",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0"
+  }
+}
